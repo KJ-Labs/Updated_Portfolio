@@ -40,10 +40,6 @@ MIT
 The owner of this project is KJ-Labs, you're welcome to contribute.
 
 
-## Questions
-
-- If you have any questions, please contact me on Github.
-- [KJ-Labs](https://github.com/KJ-Labs)
 
 ## Repository
 
