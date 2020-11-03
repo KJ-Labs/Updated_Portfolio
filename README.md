@@ -9,10 +9,6 @@
 ## Description 
 The purpose of this project is to create a customized portfolio to display my projects and allow people to contact me. 
 
-## Project Demonstration
-![Git](N/A)  
-
-
 ## Table of contents
 
 - [Description](#description)
