@@ -9,10 +9,6 @@
 ## Description 
 The purpose of this project is to create a customized portfolio to display my projects and allow people to contact me. 
 
-## Project Demonstration
-![Git](N/A)  
-
-
 ## Table of contents
 
 - [Description](#description)
@@ -44,10 +40,6 @@ MIT
 The owner of this project is KJ-Labs, you're welcome to contribute.
 
 
-## Questions
-
-- If you have any questions, please contact me on Github.
-- [KJ-Labs](https://github.com/KJ-Labs)
 
 ## Repository
 
