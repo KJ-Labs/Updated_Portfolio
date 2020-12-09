@@ -18,7 +18,7 @@
 				rgba($color-black, 0.7),
 				rgba($color-black, 0.7)
 			),
-			asset($base-url, 'img/bg/', 'header-bg-md.jpg');
+		
 	}
 
 	// Above 1600px
@@ -28,7 +28,7 @@
 				rgba($color-black, 0.7),
 				rgba($color-black, 0.7)
 			),
-			asset($base-url, 'img/bg/', 'header-bg-md.jpg');
+			
 	}
 	// Above 1920px
 	@media only screen and (min-width: 120em) {

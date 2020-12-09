@@ -4873,13 +4873,13 @@
    background-attachment: fixed; }
    @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
      .header {
-       background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/0xfolio/img/bg/header-bg-md.jpg"); } }
+       background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) } }
    @media only screen and (min-width: 100em) {
      .header {
-       background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/0xfolio/img/bg/header-bg-md.jpg"); } }
+       background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) } }
    @media only screen and (min-width: 120em) {
      .header {
-       background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/0xfolio/img/bg/header-bg-lg.jpg"); } }
+       background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)) } }
    .header__content {
      display: flex;
      flex-direction: column;
