@@ -56,7 +56,6 @@ hr {
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
@@ -6548,6 +6547,7 @@ body {
 .heading-primary--main,
 .heading-primary--sub {
   display: block;
+  color: #fff;
 }
 .heading-primary--main:not(:last-of-type),
 .heading-primary--sub:not(:last-of-type) {
@@ -7208,6 +7208,10 @@ section {
 
 .blog-section {
   background-color: #f1f1f1;
+}
+
+h2 {
+  color: white;
 }
 
 /*# sourceMappingURL=main.comp.css.map */
